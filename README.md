@@ -2,7 +2,7 @@
 
 # Spring Admin Lite
 
-**A lean Spring Boot 4 admin starter based on RuoYi-Vue-Plus.**
+**基于 RuoYi-Vue-Plus 精简的 Spring Boot 4 后台管理启动模板。**
 
 <p>
   <img src="https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white" alt="Java 21" />
