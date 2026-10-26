@@ -1,0 +1,27 @@
+# Build output
+target/
+*.class
+.flattened-pom.xml
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.run/
+
+# Version control metadata
+.svn/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local configuration
+application-local.yml
+*.local.yml
